@@ -1,5 +1,5 @@
 {
-  "name": "@tyler.thayn/jquery.actions",
+  "name": "@jquery/actions",
   "version": "0.1.0",
   "description": "jQuery extensions supporting element action triggers and handlers",
   "main": "jquery.actions.js",
